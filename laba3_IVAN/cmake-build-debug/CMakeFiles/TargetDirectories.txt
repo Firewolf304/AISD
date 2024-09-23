@@ -1,0 +1,3 @@
+/home/firewolf/CLionProjects/algos/laba3_IVAN/cmake-build-debug/CMakeFiles/laba3_IVAN.dir
+/home/firewolf/CLionProjects/algos/laba3_IVAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/firewolf/CLionProjects/algos/laba3_IVAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

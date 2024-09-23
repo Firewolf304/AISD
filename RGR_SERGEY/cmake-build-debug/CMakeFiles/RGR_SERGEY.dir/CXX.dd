@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/RGR_SERGEY.dir/main.cpp.o: dyndep
+

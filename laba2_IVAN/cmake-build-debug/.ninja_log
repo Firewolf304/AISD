@@ -1,0 +1,19 @@
+# ninja log v6
+1	104	1725688427031908407	CMakeFiles/laba2_IVAN.dir/main.cpp.o.ddi	79119073e9178a3e
+104	107	1725688427135241870	CMakeFiles/laba2_IVAN.dir/CXX.dd	5d127e3f8372b23b
+104	107	1725688427135241870	/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug/CMakeFiles/laba2_IVAN.dir/CXXModules.json	5d127e3f8372b23b
+104	107	1725688427135241870	CMakeFiles/laba2_IVAN.dir/main.cpp.o.modmap	5d127e3f8372b23b
+107	1255	1725688427138575207	CMakeFiles/laba2_IVAN.dir/main.cpp.o	7c06279f14e338ca
+1257	1302	1725688428288576661	laba2_IVAN	3b5b6980ee253fcd
+1	115	1725689812770013011	CMakeFiles/laba2_IVAN.dir/main.cpp.o.ddi	79119073e9178a3e
+115	118	1725689812883346485	CMakeFiles/laba2_IVAN.dir/CXX.dd	5d127e3f8372b23b
+115	118	1725689812883346485	/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug/CMakeFiles/laba2_IVAN.dir/CXXModules.json	5d127e3f8372b23b
+115	118	1725689812883346485	CMakeFiles/laba2_IVAN.dir/main.cpp.o.modmap	5d127e3f8372b23b
+118	1308	1725689812886679823	CMakeFiles/laba2_IVAN.dir/main.cpp.o	7c06279f14e338ca
+1309	1355	1725689814076681295	laba2_IVAN	3b5b6980ee253fcd
+1	121	1725689961420200934	CMakeFiles/laba2_IVAN.dir/main.cpp.o.ddi	79119073e9178a3e
+121	124	1725689961540201089	CMakeFiles/laba2_IVAN.dir/CXX.dd	5d127e3f8372b23b
+121	124	1725689961540201089	/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug/CMakeFiles/laba2_IVAN.dir/CXXModules.json	5d127e3f8372b23b
+121	124	1725689961540201089	CMakeFiles/laba2_IVAN.dir/main.cpp.o.modmap	5d127e3f8372b23b
+124	1333	1725689961543534426	CMakeFiles/laba2_IVAN.dir/main.cpp.o	7c06279f14e338ca
+1333	1381	1725689962753535986	laba2_IVAN	3b5b6980ee253fcd

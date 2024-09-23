@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug",
+	"dir-cur-src" : "/home/firewolf/CLionProjects/algos/laba2_IVAN",
+	"dir-top-bld" : "/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug",
+	"dir-top-src" : "/home/firewolf/CLionProjects/algos/laba2_IVAN",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/firewolf/CLionProjects/algos/laba2_IVAN/cmake-build-debug/CMakeFiles/laba2_IVAN.dir"
+}
