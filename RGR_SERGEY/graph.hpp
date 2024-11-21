@@ -1264,6 +1264,7 @@ private:
             }
         }
         // Восстанавливаем путь от src до dest
+        std::cout << "SRC=" << src << " DEST="<< dest << " DIST="<<dist[dest] << std::endl;
         if (dist[dest] != INF) {
             int cur = dest;
             std::vector<std::pair<int, int>> path;
@@ -1281,20 +1282,16 @@ private:
         int v = this->g->getIndex(this->g->getVertexFromName(b));
         int n = g.size();
         for (int u = 0; u < n; ++u) {
-            if (g[u][v] != INF) {
-                this->save.push_back(std::vector<std::pair<int, int>>());
-                std::vector<int> dist = dijkstra(n, g, u, v);
-                int originalShortestPath = dist[v];
-                if (originalShortestPath == INF) {
-                    std::cout << "No way" << std::endl;
-                    this->save.pop_back();
-                } else {
-                    std::cout << "Find way" << std::endl;
-                }
+            this->save.push_back(std::vector<std::pair<int, int>>());
+            std::vector<int> dist = dijkstra(n, g, u, v);
+            int originalShortestPath = dist[v];
+            if (originalShortestPath == INF) {
+                std::cout << "No way" << std::endl;
+                this->save.pop_back();
+            } else {
+                std::cout << "Find way" << std::endl;
             }
-
         }
-
     }
 };
 
